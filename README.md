@@ -1,6 +1,8 @@
 🎮 Deductive Logic Game - Guess the Secret Number 🎮
 A fun and interactive Streamlit app where you guess a secret 3-digit number using deductive logic. After each guess, you’ll receive real-time feedback to help you crack the code!
 
+
+STREAMLIT LINK :Check his game:https://deductive-logic-game-vandanachohan.streamlit.app/
 Features
 Real-Time Feedback: Get instant feedback after each guess using emojis (👌, 👍, ❌) or text (Correct, Ok, Wrong).
 
